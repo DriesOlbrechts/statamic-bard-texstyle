@@ -1,5 +1,5 @@
 {
-    "name": "jacksleight/statamic-bard-texstyle",
+    "name": "driesolbrechts/statamic-bard-texstyle",
     "autoload": {
         "psr-4": {
             "JackSleight\\StatamicBardTexstyle\\": "src"
